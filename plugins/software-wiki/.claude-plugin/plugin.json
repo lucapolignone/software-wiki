@@ -1,0 +1,11 @@
+{
+  "name": "software-wiki",
+  "description": "Mantieni una wiki di prodotto software che unisce guida utente e documentazione tecnica. Bootstrap di nuove wiki, raccolta di fonti markdown sparse, ingest interattivo con feature page come ponte fra le due viste.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Luca Polignone"
+  },
+  "homepage": "https://github.com/lucapolignone/software-wiki",
+  "repository": "https://github.com/lucapolignone/software-wiki",
+  "license": "MIT"
+}

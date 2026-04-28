@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "polignone-plugins",
+  "description": "Marketplace personale di plugin Claude Code di Luca Polignone.",
+  "owner": {
+    "name": "Luca Polignone"
+  },
+  "plugins": [
+    {
+      "name": "software-wiki",
+      "source": "./plugins/software-wiki",
+      "description": "Mantieni una wiki di prodotto software che unisce guida utente e documentazione tecnica. Bootstrap, raccolta fonti, ingest interattivo con feature page come ponte fra le due viste.",
+      "category": "documentation",
+      "keywords": ["wiki", "documentation", "knowledge-base", "product-docs", "ingest", "markdown"],
+      "license": "MIT"
+    }
+  ]
+}
