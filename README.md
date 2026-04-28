@@ -22,11 +22,9 @@ Doc completa in [`plugins/software-wiki/README.md`](plugins/software-wiki/README
 Da Claude Code, una volta sola:
 
 ```text
-/plugin marketplace add <github-user>/<repo-name>
+/plugin marketplace add lucapolignone/software-wiki
 /plugin install software-wiki@polignone-plugins
 ```
-
-Sostituisci `<github-user>/<repo-name>` con le coordinate effettive del repo dopo averlo pushato (es. `lpolignone/claude-plugins`). Lo script `setup.sh` lo fa per te al primo push.
 
 ## Test locale
 
